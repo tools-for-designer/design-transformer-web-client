@@ -13,8 +13,8 @@ export function initFirebase() {
         projectId: "design-transformer",
         storageBucket: "design-transformer.appspot.com",
         messagingSenderId: "115341018311",
-        appId: "1:115341018311:web:b953b1634a453cfcc06ae2",
-        measurementId: "G-F0SJLPWRBY"
+        appId: "1:115341018311:web:e48aad1d7ab5ebe8c06ae2",
+        measurementId: "G-M472Q8SZHV"
     };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
