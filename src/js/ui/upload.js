@@ -14,3 +14,7 @@ export function setUploadProgress(progress) {
 export function displayDownloadURL(url, filename) {
     document.getElementById('downloadurl').innerHTML="<a href=" + url + ">" + filename + "</a>";
 }
+
+export function showConvertCard() {
+    document.getElementById('convertcard').classList.remove('hidden');
+}
