@@ -1,0 +1,33 @@
+.drtodolittle-textfield {
+    width: 85%;
+}
+
+.page-content {
+    padding-left: 0em;
+    padding-right: 0em;
+}
+
+.hidden {
+    display: none;
+}
+
+.spacer {
+    width: 15px;
+}
+
+.editmode {
+    color: grey;
+}
+
+.drtodolittle-footer {
+    padding: 5px 10px;
+}
+
+.drtodolittle-listitem {
+    padding: 10px;
+}
+
+.drtodolittle-chip {
+    margin-inline-end: 4px;
+}
+  
